@@ -1,43 +1,44 @@
 <h1 align="center">👋 Salaam! I'm Apdyqafaar Cabdulaahi Nour</h1>
 
 <p align="center">
-  🌍 Full-Stack Developer | AI Explorer | Linux Advocate<br>
-  🔬 Building with LLMs, Go, and modern JavaScript frameworks
+  🌐 Full-Stack Developer | AI Explorer | Open Source Enthusiast<br>
+  💻 Building smart solutions with Go and TypeScript
 </p>
 
 ---
 
 ### 🧠 Who Am I?
 
-- 🧠 Obsessed with building powerful, scalable tools for real-world problems
-- 🛡️ Advocate for free & open-source software and ethical tech
-- 💻 Daily user of Linux (terminal-first workflow, always!)
-- 🛠️ Versatile in both frontend & backend ecosystems
-- 📈 Actively learning about LLMs, system design, and edge computing
+- 💡 I enjoy solving complex problems with simple code
+- 🔁 Focused on scalability, speed, and software that matters
+- 🚀 Passionate about TypeScript, Go, and backend systems
+- 🤖 Exploring AI integrations using LLMs & modern APIs
+- 🛠️ Believer in lifelong learning & practical projects
 
 ---
 
 ### 🔧 Tech Toolbox
 
 <p align="center">
-  <!-- Web & JS Stack -->
-  <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react" />
+  <!-- Main Languages -->
+  <img src="https://img.shields.io/badge/Go-Primary-blue?style=flat&logo=go" />
+  <img src="https://img.shields.io/badge/TypeScript-Primary-blue?style=flat&logo=typescript" />
+
+  <!-- Frameworks & Backend -->
   <img src="https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-informational?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/Express-informational?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/Flask-informational?style=flat&logo=flask" />
+
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql" />
 
-  <!-- AI & Backend -->
-  <img src="https://img.shields.io/badge/LLMs-informational?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Flask-informational?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go" />
-
+  <!-- AI/LLMs -->
+  <img src="https://img.shields.io/badge/LLMs-Active-informational?style=flat&logo=openai&logoColor=white" />
+  
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visualstudiocode" />
 </p>
 
 ---
@@ -60,4 +61,4 @@
 
 ---
 
-<p align="center">Made with ❤️, Linux & Vim</p>
+<p align="center">Made with 💙 using Go & TypeScript</p>
