@@ -2,7 +2,7 @@
 
 <p align="center">
   🌐 Full-Stack Developer | AI Explorer | Open Source Enthusiast<br>
-  💻 Building smart solutions with Js and Tst
+  💻 Building smart solutions with Js and Ts
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 💡 I enjoy solving complex problems with simple code
 - 🔁 Focused on scalability, speed, and software that matters
-- 🚀 Passionate about TypeScript, Go, and backend systems
+- 🚀 Passionate about TypeScript, and backend systems
 - 🤖 Exploring AI integrations using LLMs & modern APIs
 - 🛠️ Believer in lifelong learning & practical projects
 
