@@ -2,7 +2,7 @@
 
 <p align="center">
   🌐 Full-Stack Developer | AI Explorer | Open Source Enthusiast<br>
-  💻 Building smart solutions with Go and TypeScript
+  💻 Building smart solutions with Js and Tst
 </p>
 
 ---
